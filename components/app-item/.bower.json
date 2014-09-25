@@ -1,0 +1,24 @@
+{
+  "name": "app-item",
+  "keywords": [
+    "seed",
+    "polymer",
+    "web-components"
+  ],
+  "main": "app-item.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.4.0",
+    "polymer-jsonp": "Azd325/polymer-jsonp"
+  },
+  "homepage": "https://github.com/OpenBankProject/app-item",
+  "_release": "f1309c8299",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f1309c8299107e36ea78bba4b63e3b04c1203ee6"
+  },
+  "_source": "git://github.com/OpenBankProject/app-item.git",
+  "_target": "master",
+  "_originalSource": "OpenBankProject/app-item",
+  "_direct": true
+}
